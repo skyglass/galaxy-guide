@@ -1,4 +1,4 @@
-# galaxy-guide - Simple Java Application, which uses Little Language Pattern 
+# galaxy-guide - Simple Java Application, that applies Little Language Pattern 
 
 * this demo application is an example of simple test-driven java development, without any third-party libraries usage, except JUnit.
 It' a Multi-Currency Converter for different Galaxies, in essence.
