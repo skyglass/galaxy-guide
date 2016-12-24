@@ -1,4 +1,4 @@
-# galaxy-guide - Multi-Currency Converter for different Galaxies
+# Multi-Currency Converter for different Galaxies
 
 * This demo application is a simple Java application that applies Little Language Design Pattern. It is an example of a simple test-driven java development, without any third-party libraries usage, except JUnit.
 
